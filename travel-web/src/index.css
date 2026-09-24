@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+:root {
+
+  --color-bg: #faf6ee;
+  --color-card: #ffffff;
+  --color-primary-btn: #0c647c;
+  --color-secondary-btn: #FFF5EA;
+  --color-text: #111827;
+  --color-subtext: #5C6B73;
+  --color-border: #ECE8DF;
+
+
+  --border-card: 24px;
+  --border-button: 12px;
+  --border-badge: 28px;
+
+
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 48px;
+  --spacing-3xl: 64px;
+
+}
